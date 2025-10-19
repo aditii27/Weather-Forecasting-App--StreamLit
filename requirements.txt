@@ -1,3 +1,4 @@
 streamlit
 pyowm
 matplotlib
+plotly
